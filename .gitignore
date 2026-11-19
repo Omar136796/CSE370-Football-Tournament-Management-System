@@ -1,0 +1,5 @@
+.DS_Store
+
+# Team logos uploaded at runtime through the admin panel
+football_tournament/uploads/*
+!football_tournament/uploads/.gitkeep
