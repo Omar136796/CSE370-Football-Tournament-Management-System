@@ -3,7 +3,7 @@
 A web application for running football tournaments, built with **PHP** and
 **MySQL**. Admins manage teams, players, tournaments, matches, match events,
 and standings. Fans follow their teams, check fixtures, standings, and
-statistics, and discuss matches in threaded reviews.
+statistics and discuss matches in threaded reviews.
 
 Team project for CSE370 (Database Systems) at BRAC University, Spring 2025.
 
